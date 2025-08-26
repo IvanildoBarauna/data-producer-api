@@ -1,5 +1,7 @@
 ## Data Producer API: FastAPI application for sending data to Pub/Sub, used for load testing and triggering pipelines
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ivanildobarauna-dev/data-producer-api)
+
 ![Project Status](https://img.shields.io/badge/status-done-green?style=for-the-badge&logo=github)
 ![Python Version](https://img.shields.io/badge/python-3.9-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=mit)
@@ -11,7 +13,6 @@
 [![IMAGE-DEPLOY](https://img.shields.io/github/actions/workflow/status/ivdatahub/data-producer-api/deploy-image.yml?&style=for-the-badge&logo=github&cacheSeconds=60&label=Registry)](https://github.com/ivdatahub/data-producer-api/actions/workflows/deploy-cloud-run.yaml)
 [![GCP-DEPLOY](https://img.shields.io/github/actions/workflow/status/ivdatahub/data-producer-api/deploy-cloud-run.yaml?&style=for-the-badge&logo=google&cacheSeconds=60&label=Deploy)](https://github.com/ivdatahub/data-producer-api/actions/workflows/deploy-cloud-run.yaml)
 
-[![Codecov](https://img.shields.io/codecov/c/github/ivdatahub/data-producer-api?style=for-the-badge&logo=codecov)](https://app.codecov.io/gh/ivdatahub/data-producer-api)
 
 ## Development Stack
 
